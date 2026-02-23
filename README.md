@@ -1,5 +1,3 @@
-# MSDB-Madurai-Smart-Drop-Booth
-An IoT-based Smart Waste Management Ecosystem for Madurai, featuring a reward-based segregation system, solar-powered EV-van model, and Python-automated point logic.
 # MSDB - Madurai Smart Drop Booth ♻️🔋
 
 **Madurai Smart Drop Booth (MSDB)** is an IoT-based smart waste management system designed to reward citizens for proper waste segregation.
